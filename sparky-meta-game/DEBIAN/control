@@ -1,0 +1,12 @@
+Package: sparky-meta-game
+Version: 20170717
+Architecture: all
+Maintainer: pavroo <pavroo@onet.eu>
+Installed-Size: 32
+Depends: 0ad, 3dchess, airstrike, alienblaster, amphetamine, antigravitaattori, antimicro, armagetronad, asciijump, asylum, atomix, balder2d, barrage, berusky, billard-gl, biniax2, black-box, blobby, bloboats, blockout2, brainparty, bygfoot, chromium-bsu, crrcsim, einstein, extremetuxracer, five-or-more, flare, four-in-a-row, freedroid, frozen-bubble, funnyboat, gl-117, gnome-chess, gnome-hearts, gnome-klotski, gnome-mahjongg, gnome-mastermind, gnome-mines, gnome-nibbles, gnome-robots, gnome-sudoku, gnome-tetravex, gnubik, gnuchess, gnugo, gtkatlantic, gtkpool, gunroar, holdingnuts, iagno, itch, joystick, jstest-gtk, lbreakout2, lightsoff, liquidwar, ltris, lutris, maelstrom, megaglest, minetest, mokomaze, monopd, monsterz, moon-buggy, moon-lander, netmaze, netpanzer, openarena, pacman, performous, playonlinux, quadrapassel, slimevolley, snake4, snowballz, sparky-aptus-gamer, sparky-ia, steam, supertux, swell-foop, tali, teamspeak-installer, teeworlds, tennix, tetzle, tomatoes, transcend, warzone2100, widelands, wine, winetricks, xblast-tnt, xmoto, zaz 
+Suggests: sparky-artwork-special, sparky-polkit, sparky-remsu
+Section: System
+Priority: optional
+Description: Sparky Meta Game
+  This meta package installs extra tools used by Sparky GameOver Edition. The package set is desktop environment independent, so can be installed on the top of any desktop environment or a window manager.
+
