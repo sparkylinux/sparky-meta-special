@@ -1,10 +1,10 @@
 Package: sparky-meta-rescue
-Version: 20180103
+Version: 20180926
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: apt, baobab, boot-repair, boot-sav-extra, btrfs-progs, chkrootkit, cifs-utils, clamav, clamtk, clonezilla, coreutils, cryptsetup, cryptmount, custom-iso-builder, ddrescue-gui, deb-package-builder, disk-manager, disktype, dosfstools, drbl, e2fsprogs, ecryptfs-utils, exfat-utils, f2fs-tools, fsarchiver, fuse2fs, gddrescue, gdisk, gigolo, gnome-keyring, gnome-system-log, gpart, gparted, grdesktop, grsync, gsmartcontrol, gvfs, hardinfo, hddtemp, hdparm, hfsprogs, hfsutils, htop, hwdata, inxi, jfsutils, libisofs6, lm-sensors, luckybackup, lvm2, mdadm, memtest86+, mtools, nilfs-tools, nmon, ntfs-3g, ophcrack, partclone, parted, partimage, partimage-server, powertop, procps, rdesktop, redobackup, remmina, rkhunter, reiser4progs, reiserfsprogs, rpm, smartmontools, smart-notifier, smbclient, sparky-chrooter, sparky-eraser, sparky-polkit, sparky-remsu, sparky-live-usb-creator, sparky-teamviewer, sparky-usb-formatter, system-config-lvm, system-storage-manager, tcplay, testdisk, tmfs, udftools, util-linux, veracrypt, wipe, xfsprogs, zulucrypt-gui, zulumount-gui
-Suggests: tint2 | fbpanel, obmenu-generator, openbox, sparky-artwork-special, zypper
+Depends: apt, baobab, boot-repair, boot-sav-extra, btrfs-progs, chkrootkit, cifs-utils, clamav, clamtk, clonezilla, coreutils, cryptsetup, cryptmount, custom-iso-builder, ddrescue-gui, deb-package-builder, disk-manager, disktype, dosfstools, drbl, e2fsprogs, ecryptfs-utils, exfat-utils, f2fs-tools, fsarchiver, fuse2fs, gddrescue, gdisk, gigolo, gnome-keyring, gnome-system-log, gpart, gparted, grdesktop, grsync, gsmartcontrol, gvfs, hardinfo, hddtemp, hdparm, hfsprogs, hfsutils, htop, hwdata, inxi, jfsutils, libisofs6, lm-sensors, luckybackup, lvm2, mdadm, memtest86+, mtools, nilfs-tools, nmon, ntfs-3g, ophcrack, partclone, parted, partimage, partimage-server, powertop, procps, rdesktop, redobackup, remmina, rkhunter, reiser4progs, reiserfsprogs, rpm, smartmontools, smart-notifier, smbclient, sparky-chrooter, sparky-eraser, sparky-polkit, sparky-remsu, sparky-live-usb-creator, sparky-teamviewer, sparky-usb-formatter, system-config-lvm, tcplay, testdisk, tmfs, udftools, util-linux, veracrypt, wipe, xfsprogs, zulucrypt-gui, zulumount-gui
+Suggests: tint2 | fbpanel, obmenu-generator, openbox, sparky-artwork-special, zypper, system-storage-manager
 Section: System
 Priority: optional
 Description: Sparky Meta Rescue
