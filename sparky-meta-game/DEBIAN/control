@@ -1,10 +1,10 @@
 Package: sparky-meta-game
-Version: 20201116
+Version: 20201122
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: 0ad, 3dchess, airstrike, alienblaster, amphetamine, antigravitaattori, antimicro, armagetronad, asciijump, asylum, atomix, barrage, berusky, billard-gl, black-box, blobby, bloboats, blockout2, brainparty, bygfoot, chromium-bsu, einstein, extremetuxracer, five-or-more, four-in-a-row, freedroid, funnyboat, gl-117, gnome-chess, gnome-klotski, gnome-mahjongg, gnome-mines, gnome-nibbles, gnome-robots, gnome-sudoku, gnome-tetravex, gnubik, gnuchess, gnugo, gtkatlantic, gtkpool, gunroar, iagno, itch, joystick, jstest-gtk, lbreakout2, lightsoff, liquidwar, ltris, lutris, maelstrom, megaglest, minetest, mokomaze, monopd, monsterz, moon-buggy, moon-lander, netmaze, netpanzer, openarena, pacman, performous, quadrapassel, slimevolley, snake4, sparky-ia, steam, supertux, swell-foop, tali, teamspeak-installer, teeworlds, tennix, tetzle, tomatoes, transcend, warzone2100, widelands, wine, winetricks, xblast-tnt, xmoto, zaz 
-Suggests: sparky-artwork-special, sparky-polkit, sparky-remsu, gnome-hearts, gnome-mastermind, playonlinux, holdingnuts, balder2d, crrcsim, frozen-bubble, flare, snowballz
+Depends: 0ad, 3dchess, airstrike, alienblaster, amphetamine, antigravitaattori, antimicro, armagetronad, asciijump, asylum, atomix, barrage, berusky, billard-gl, black-box, blobby, bloboats, blockout2, brainparty, bygfoot, chromium-bsu, einstein, extremetuxracer, five-or-more, four-in-a-row, freedroid, funnyboat, gl-117, gnome-chess, gnome-klotski, gnome-mahjongg, gnome-mines, gnome-nibbles, gnome-robots, gnome-sudoku, gnome-tetravex, gnubik, gnuchess, gnugo, gtkatlantic, gtkpool, gunroar, iagno, itch, joystick, jstest-gtk, lbreakout2, lightsoff, liquidwar, ltris, lutris, maelstrom, megaglest, minetest, mokomaze, monopd, monsterz, moon-buggy, moon-lander, netmaze, netpanzer, openarena, pacman, performous, quadrapassel, slimevolley, snake4, sparky-ia, steam, supertux, swell-foop, tali, teamspeak-installer, teeworlds, tennix, tetzle, tomatoes, transcend, warzone2100, widelands, wine, winetricks, xmoto, zaz 
+Suggests: sparky-artwork-special, sparky-polkit, sparky-remsu, gnome-hearts, gnome-mastermind, playonlinux, holdingnuts, balder2d, crrcsim, frozen-bubble, flare, snowballz, xblast-tnt
 Section: System
 Priority: optional
 Description: Sparky Meta Game
