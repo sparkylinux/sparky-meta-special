@@ -1,7 +1,7 @@
 Sparky Meta Special
 Meta packages are used to install a set of applications to a special edition of Sparky.
 
-Copyright (C) 2017 Paweł Pijanowski
+Copyright (C) 2017-2021 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
