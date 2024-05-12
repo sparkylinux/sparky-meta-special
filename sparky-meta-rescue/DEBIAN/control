@@ -1,9 +1,9 @@
 Package: sparky-meta-rescue
-Version: 20210827
+Version: 20240512
 Architecture: all
 Maintainer: pavroo <pavroo@onet.eu>
 Installed-Size: 32
-Depends: apt, baobab, boot-repair, boot-sav-extra, btrfs-progs, chkrootkit, cifs-utils, clamav, clamtk, clonezilla, coreutils, cryptsetup, cryptmount, custom-iso-builder, ddrescue-gui, deb-package-builder, disktype, dosfstools, drbl, e2fsprogs, ecryptfs-utils, exfatprogs, f2fs-tools, fsarchiver, fuse2fs, gddrescue, gdisk, gigolo, gnome-keyring, gnome-system-log, gpart, gparted, grdesktop, grsync, gsmartcontrol, gvfs, hardinfo, hddtemp, hdparm, hfsprogs, hfsutils, htop, hwdata, inxi, jfsutils, libisofs6, lm-sensors, luckybackup, lvm2, mdadm, memtest86+, mtools, nilfs-tools, nmon, ntfs-3g, ophcrack, partclone, parted, partimage, partimage-server, powertop, procps, rdesktop, remmina, rkhunter, reiser4progs, reiserfsprogs, rpm, smartmontools, smart-notifier, smbclient, sparky-chrooter, sparky-eraser, sparky-polkit, sparky-remsu, sparky-live-usb-creator, sparky-teamviewer, sparky-usb-formatter, tcplay, testdisk, tmfs, udftools, util-linux, veracrypt, wipe, xfsprogs, zulucrypt-gui, zulumount-gui
+Depends: apt, baobab, boot-repair, boot-sav-extra, btrfs-progs, chkrootkit, cifs-utils, clamav, clamtk, clonezilla, coreutils, cryptsetup, cryptmount, custom-iso-builder, ddrescue-gui, deb-package-builder, disktype, dosfstools, drbl, e2fsprogs, ecryptfs-utils, exfatprogs, f2fs-tools, fsarchiver, fuse2fs, gddrescue, gdisk, gigolo, gnome-keyring, gnome-system-log, gpart, gparted, grdesktop, grsync, gsmartcontrol, gvfs, hardinfo, hddtemp, hdparm, hfsprogs, hfsutils, htop, hwdata, inxi, jfsutils, libisofs6, lm-sensors, luckybackup, lvm2, mdadm, memtest86+, mtools, nilfs-tools, nmon, ntfs-3g, ophcrack, partclone, parted, partimage, partimage-server, powertop, procps, rdesktop, remmina, rkhunter, reiser4progs, reiserfsprogs, rpm, smartmontools, smart-notifier, smbclient, sparky-chrooter, sparky-eraser, sparky-polkit, sparky-remsu,  sparky-teamviewer, sparky-usb-imager, tcplay, testdisk, tmfs, udftools, util-linux, veracrypt, wipe, xfsprogs, zulucrypt-gui, zulumount-gui
 Suggests: tint2 | fbpanel, openbox, sparky-artwork-special, zypper, system-storage-manager, redobackup, disk-manager, system-config-lvm
 Section: System
 Priority: optional
